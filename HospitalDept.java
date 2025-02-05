@@ -1,3 +1,4 @@
+//Developing an Hospital Management System to calculate the treatment cost
 package Hospital;
 
 import java.util.Scanner;
